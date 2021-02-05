@@ -1,0 +1,14 @@
+MODEL        0
+ATOM      1  CA  GLY A   1      -6.878  -0.708   2.896  1.00  0.00           C  
+ATOM      2  CA  TYR A   2      -4.189  -0.302   0.213  1.00  0.00           C  
+ATOM      3  CA  ASP A   3      -1.287   1.320   2.084  1.00  0.00           C  
+ATOM      4  CA  PRO A   4       0.579   3.407  -0.513  1.00  0.00           C  
+ATOM      5  CA  GLU A   5       3.531   3.694   1.893  1.00  0.00           C  
+ATOM      6  CA  THR A   6       4.684   0.239   0.748  1.00  0.00           C  
+ATOM      7  CA  GLY A   7       2.498  -0.018  -2.375  1.00  0.00           C  
+ATOM      8  CA  THR A   8       0.411  -3.025  -1.274  1.00  0.00           C  
+ATOM      9  CA  TRP A   9      -2.598  -4.011   0.868  1.00  0.00           C  
+ATOM     10  CA  GLY A  10      -1.229  -3.774   4.431  1.00  0.00           C  
+TER      11      GLY A  10
+ENDMDL
+END
